@@ -1,0 +1,2 @@
+export const GET_DATA_FROM_GITHUB = 'GET_DATA_FROM_GITHUB';
+export const GITHUB_ERROR = 'GITHUB_ERROR';
